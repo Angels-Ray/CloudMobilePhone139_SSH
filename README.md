@@ -21,3 +21,4 @@
 1. 公钥`authorized_keys`放`/data/ssh/shell/.ssh/`与`/data/ssh/root/.ssh/`目录下。
 
 2. 端口已改10002，配置文件：`/data/ssh/sshd_config`。
+
