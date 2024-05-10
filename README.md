@@ -1,6 +1,8 @@
 ## Introduction
 
-适用于移动云手机的SSH，`SSH for Magisk_by ATRAY_v0.18.zip`。原版指路：https://gitlab.com/d4rcm4rc/MagiskSSH/，原版环境在移动云手机上并不起效，需要改动些才能用。
+适用于移动云手机的SSH，`SSH for Magisk_by ATRAY_v0.18.zip`。
+原版指路：https://gitlab.com/d4rcm4rc/MagiskSSH/
+原版环境在移动云手机上并不起效，需要改动些才能用。
 
 ## Installation
 
